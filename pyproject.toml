@@ -1,0 +1,5 @@
+[project]
+name = "install-release"
+version = "0.1.0"
+description = "A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL"
+requires-python = ">=3.10"
